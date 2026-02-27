@@ -1,1 +1,16 @@
+{
+  "UWorld": 87601512,
+  "GNames": 87248896,
+  "PersistentLevel": 48,
+  "PersistentLevelNetDriver": 328,
+  "ServerConnection": 168,
+  "PlayerController": 0,
+  "LocalPlayer": 0,
+  "AcknowledgedPawn": 1216,
+  "EntityList": 152,
+  "RootComponent": 448,
+  "RelativeLocation": 276,
+  "Mesh": 1424,
+  "bDead": 2156
+}
 
